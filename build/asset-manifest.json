@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wp-content/reactpress/apps/Medical-Report/build/static/css/main.9c67e436.css",
+    "main.js": "/wp-content/reactpress/apps/Medical-Report/build/static/js/main.80a9af49.js",
+    "static/js/787.6d1f2763.chunk.js": "/wp-content/reactpress/apps/Medical-Report/build/static/js/787.6d1f2763.chunk.js",
+    "static/media/img.png": "/wp-content/reactpress/apps/Medical-Report/build/static/media/img.4d1e20e482e3844449d6.png",
+    "index.html": "/wp-content/reactpress/apps/Medical-Report/build/index.html",
+    "main.9c67e436.css.map": "/wp-content/reactpress/apps/Medical-Report/build/static/css/main.9c67e436.css.map",
+    "main.80a9af49.js.map": "/wp-content/reactpress/apps/Medical-Report/build/static/js/main.80a9af49.js.map",
+    "787.6d1f2763.chunk.js.map": "/wp-content/reactpress/apps/Medical-Report/build/static/js/787.6d1f2763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c67e436.css",
+    "static/js/main.80a9af49.js"
+  ]
+}
